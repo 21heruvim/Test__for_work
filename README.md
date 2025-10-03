@@ -33,7 +33,7 @@
 
 1. Склонируй репозиторий:
    ```bash
-   git clone https://github.com/21heruvim/Test_for_work.git
+   git clone https://github.com/21heruvim/Test__for_work.git
    cd Test_for_work
 2. Открой проект в Visual Studio, собери и запусти его.
 3. При первом запуске появится диалоговое окно подключения к базе данных. Заполни поля для подключения.
